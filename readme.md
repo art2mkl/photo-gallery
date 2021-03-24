@@ -1,6 +1,6 @@
 # First Ionic APP Exercice
 
-School exercice realised with this followed tutorial :
+School exercice realised with this following tutorial :
 
 https://ionicframework.com/docs/angular/your-first-app
 
